@@ -1,0 +1,32 @@
+<resources>
+    <!--   app wide  -->
+    <string name="app_name">Quizpac</string>
+    <string name="back_button">BACK</string>
+
+
+    <!--   main menu  -->
+    <string name="menu_title">MAIN MENU</string>
+    <string name="store_button">STORE</string>
+    <string name="quizzes_button">QUIZZES</string>
+    <string name="profile_button">PROFILE</string>
+    <string name="collection_button">COLLECTION</string>
+    <string name="leaderboard_button">LEADERBOARD</string>
+
+
+    <!--   store page  -->
+    <string name="store_title">STORE</string>
+
+    <!--   quiz page  -->
+    <string name="quizzes_title">QUIZZES</string>
+
+    <!--   profile page  -->
+    <string name="profile_title">PROFILE</string>
+
+    <!--   collection page  -->
+    <string name="collection_title">COLLECTION</string>
+
+    <!--   leaderboard page  -->
+    <string name="leaderboard_title">LEADERBOARD</string>
+
+
+</resources>
